@@ -13,7 +13,7 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqY125824WqDiBLF-6jFGSw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCqY125824WqDiBLF-6jFGSw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/arman_230602/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/arman_230602/#gh-dark-mode-only)
 
 ### Languages and Tools:
