@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm ARMAN</h1>
+<h3 align="center">Saya seorang programmer pemula</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <!--
 **ARMAN-ENGINEERING/ARMAN-ENGINEERING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
