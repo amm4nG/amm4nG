@@ -1,9 +1,6 @@
 # Hi there, I'm ARMAN  👋 
 
-## I'm a novice programmer!!
-
-- 🌱 Saya ingin menjadi diri sendiri!
-- 🥅 Target -> jadi back-end developer
+Lahir Dari Keluarga Sederhana Yang Memiliki Mimpi Yang Besar.
 
 ### Connect with me:
 
