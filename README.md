@@ -10,7 +10,7 @@
 
 ---------------
 
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
+[![website](./img/globe-light.svg)](http://ammangdeveloper.000webhostapp.com/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqY125824WqDiBLF-6jFGSw#gh-light-mode-only)
