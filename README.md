@@ -1,6 +1,6 @@
-# Hi there, I'm ARMAN  👋 
+# Hi There, I'm Arman  👋 
 
-# Lahir Dari Keluarga Sederhana Yang Memiliki Mimpi Yang Besar.
+# Saya Lahir Dari Keluarga Sederhana Yang Memiliki Mimpi Yang Besar.
 
 ### Connect with me:
 
