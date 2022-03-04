@@ -1,8 +1,12 @@
 # Hi There, I'm Arman  👋 
 
+---------------
+
 # Saya Lahir Dari Keluarga Sederhana Yang Memiliki Mimpi Yang Besar.
 
 ### Connect with me:
+
+---------------
 
 [![website](./img/globe-light.svg)](#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
