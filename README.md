@@ -2,7 +2,7 @@
 
 ---------------
 
-# Saya Lahir Dari Keluarga Sederhana Yang Memiliki Mimpi Yang Besar.
+# Lahir Dari Keluarga Sederhana Yang Memiliki Mimpi Yang Besar.
 
 ---------------
 
