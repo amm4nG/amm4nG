@@ -2,7 +2,7 @@
 
 ---------------
 
-# Lahir Dari Keluarga Sederhana Yang Memiliki Mimpi Yang Besar.
+# Tidak perlu menjadi orang lain saat kamu hebat jadi diri sendiri.
 
 ---------------
 
@@ -13,7 +13,7 @@
 [![website](./img/globe-light.svg)](http://ammangdeveloper.000webhostapp.com/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqY125824WqDiBLF-6jFGSw#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqY125824WqDiBLF-6jFGSw/videos)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCqY125824WqDiBLF-6jFGSw#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/arman_230602/#gh-light-mode-only)
