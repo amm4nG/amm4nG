@@ -1,0 +1,72 @@
+<html><meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
+<link href="https://pesanuntukmu.likeadream.repl.co/style.css" rel="stylesheet" type="text/css" /><script src="https://pesanuntukmu.likeadream.repl.co/script.js"></script>
+<head>
+<!-- 
+This code was made by Rayya R
+Blog: https://sinkronin.com
+Instagram: rayyarrr
+TikTok: rayyarr_
+-->
+</head>
+<body><div id="bodyblur"><img src="https://i.postimg.cc/NMLZ6Zk5/IMG-20220207-131156-010.jpg" width="100%" height="100%"/></div>
+
+<div id="idfoto" class="foto">
+  <!-- Foto 1 dan 2 --><div class="image"><img id="ftKm" src="https://i.postimg.cc/7Y5St8C3/snuggles-caring-1.gif" width="130px" height="130px"/><img id="ftAk" class="lopdeg" style="opacity:0;position:absolute;" src="https://i.postimg.cc/WzSgqLG7/love-ilu.gif" width="130px" height="130px"/></div>
+  <!-- Nama & Pesan --><span id="sp1"></span><div id="sp2" style="display:none;"><span id="text3"></span></div>
+</div>
+
+<div id='Content' style="display:none">
+  <blockquote><p id="text"></p><p id="text2"></p></blockquote>
+</div>
+
+<div id="tombo" class="content2"><div id="lope" class="ct1"><label class='lovein' onClick="mulai();nonTo();nonFo()">&#10084;&#65039;</label></div>
+  <p style="opacity:.7;font-size:12px;color:white">Klik untuk Mulai</p>
+</div>
+
+<script type="text/javascript">
+function play() {//Link Audio Bisa Diganti
+var audio = new Audio('https://nih.likeadream.repl.co/Hiduplah.mp3');audio.play();}
+
+            document.getElementById("sp1").innerHTML = "Hai kamu"
+            const swals = Swal.mixin({
+                allowOutsideClick: false,
+            });
+            const swalsy = Swal.mixin({confirmButtonText: 'Iya', allowOutsideClick: false,});
+            const swalst = Swal.mixin({
+                allowOutsideClick: false, showConfirmButton: false, timer: 2300, timerProgressBar: true,
+            });
+            async function mulai(){
+                var { value: nama } = await swals.fire({
+                    title: 'Masukin nama kamu',
+                    input: 'text',
+                    allowOutsideClick: false,
+                    showCancelButton: false,
+                });
+                if(nama && nama.length < 8){
+                	window.nama = nama;
+                    kuiscwk();                                 
+                } else {
+                    await swals.fire('Ups!', 'Nama tidak boleh kosong atau lebih dari 7 karakter, ya!');
+                    mulai();
+                }
+            }
+            async function kuiscwk(){
+            	var { isConfirmed: cwk } = await swals.fire({title: `Kamu Cewek atau Cowok?&#129320;&#128248;`, text: `Jawab jujur ya:v`, confirmButtonText: 'Cewek', cancelButtonText: 'Cowok', allowOutsideClick: false, showCancelButton: true,
+                });if(cwk){namacwk = '' + nama + ' cantik';kuis();} else {namacwk = '' + nama + ' ganteng';kuis();}
+            }
+            async function kuis(){
+            	      play();
+                  	await swalst.fire('Hai, ' + namacwk + '!');
+                      await swalst.fire('Aku mau bilang kamu pasti lapar yah :)');
+                      await swalst.fire('Sama saya juga lapar &#129325;');
+                      text = "Dear, " + namacwk + ". Semangat yah puasa nya :) ";
+                      emotnama = "&#10084;";
+                      text2 = "Udah itu aja kok <3    ...     ";
+                      pesanakhir = "Baik-baik di sana, " + nama + "&#129293;";
+                      ketik();showFo();showDiv();document.getElementById("sp1").innerHTML = nama + " &#128155;";
+             }
+</script>
+</body>
+</html>
