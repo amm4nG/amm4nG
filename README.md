@@ -5,19 +5,6 @@
 
 ---------------
 
-### Connect with me:
-
----------------
-
-[![website](./img/globe-light.svg)](http://ammangdeveloper.000webhostapp.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqY125824WqDiBLF-6jFGSw/videos)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCqY125824WqDiBLF-6jFGSw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/arman_230602/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/arman_230602/#gh-dark-mode-only)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
